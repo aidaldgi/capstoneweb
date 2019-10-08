@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-size: 300%;
+  font-family: Century,sans-serif;;
+}
+
+h5 {
+  text-align: center;
+  font-family: Century, sans-serif;;
+  font-size: 150%;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 2px;
+}
+
+body {
+background-image: url(http://images.unsplash.com/photo-1513106580091-1d82408b8cd6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9);
+}
